@@ -9,4 +9,5 @@ As a result, brightness of surroundings is directly mapped to the inclination an
 
 
 # Video
-<iframe src="https://drive.google.com/file/d/18NLpU7h80QxdY-f05ugJ5muaDY0gKWJE/preview" width="640" height="480" allow="autoplay"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/18NLpU7h80QxdY-f05ugJ5muaDY0gKWJE/preview" width="640" height="480" allow="autoplay"></iframe> -->
+[![Video](https://drive.google.com/file/d/18NLpU7h80QxdY-f05ugJ5muaDY0gKWJE/view?usp=sharing)](https://drive.google.com/file/d/18NLpU7h80QxdY-f05ugJ5muaDY0gKWJE/view?usp=sharing)
